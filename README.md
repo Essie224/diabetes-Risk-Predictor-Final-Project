@@ -54,12 +54,6 @@ By analyzing patient data, this project demonstrates how machine learning can:
 	•	Recall: 0.98
 	•	F1-score: 0.98
 
-## 🌍 Future Improvements
-	•	Deploy to Heroku / AWS / Azure for public access
-	•	Add more medical/lifestyle features for richer predictions
-	•	Improve explainability with SHAP or LIME (why the model predicts a certain risk)
-	•	Enhance the UI with better visualizations
-
 
 ## 🙌 Acknowledgements
 ✨ This project taught me how to think like a data scientist, asking the right questions, analyzing health features,
