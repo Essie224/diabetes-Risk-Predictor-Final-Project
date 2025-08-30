@@ -1,2 +1,5 @@
 gender,age,hypertension,heart_disease,smoking_history,bmi,HbA1c_level,blood_glucose_level,prediction
 0,18,1,1,0,10.0,2.0,40,0
+1,22,1,1,1,10.06,2.049999999999999,45,0
+1,90,1,1,1,10.5,3.51,120,0
+0,18,1,1,0,10.0,2.0,40,0
